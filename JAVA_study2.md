@@ -37,7 +37,7 @@ Java is **A PIE**
 현실의 객체가 갖는 속성과 기능은 추상화되어 클래스에 정의된다.
 클래스는 구체화 되어 프로그램의 객체가 된다.
 
-![image-20220826140257999](../AppData/Roaming/Typora/typora-user-images/image-20220826140257999.png)
+![1](image/1.png)
 
 
 
@@ -262,6 +262,6 @@ JDK 1.5의 기본 annotation의 예
 3. 인터페이스의 필요성
    - 구현을 강제로 표준화 처리 -> 손쉬운 모듈 교체
      (Printer가 바뀌어도 print()메서드는 동일!)
-4. 서로 상속의 관계가 없는 클래스들이게 인터페이스를 통한 
+4. 서로 상속의 관계가 없는 클래스들에게 인터페이스를 통한 
    관계 부여로 다형성 확장
-   ![image-20220830082240143](../AppData/Roaming/Typora/typora-user-images/image-20220830082240143.png)
+   ![2](image/2.png)
